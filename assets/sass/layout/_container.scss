@@ -1,0 +1,8 @@
+.container {
+  @include outer-container;
+
+  @include media ($design-edge) {
+    padding-left: rem(10);
+    padding-right: rem(10);
+  }
+}

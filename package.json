@@ -1,0 +1,14 @@
+{
+  "name": "curso-frontend",
+  "version": "1.0.0",
+  "description": "curso avanzado de frontend",
+  "private": true,
+  "author": "Luis Felipe Perez",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "shelljs": "^0.7.5"
+  }
+}

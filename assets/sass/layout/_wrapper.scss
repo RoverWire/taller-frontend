@@ -1,0 +1,9 @@
+.wrapper {
+  @include clearfix;
+  margin-bottom: -$footer-height;
+  min-height: 100%;
+
+  &::after {
+    height: $footer-height;
+  }
+}
